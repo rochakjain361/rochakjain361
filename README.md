@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" />
 
-### Currently an ECE undergrad at Indian Instittue of Technology, Roorkee and a developer at IMG IIT-Roorkee
+### Currently an ECE undergrad at Indian Institute of Technology, Roorkee and a developer at IMG IIT-Roorkee
 
 - 🔭 I’m currently working on web development technologies like Django, Flask, React, Docker etc.
 - 🌱 I’m currently learning about Frontend and Backend Technologies.
